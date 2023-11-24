@@ -1,0 +1,28 @@
+.wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20%;
+  box-shadow: 1px 4px 4px 2px rgb(95, 76, 76);
+  width: 80%;
+  margin: 2rem;
+}
+.btn1 {
+  margin: 1rem;
+  border-radius: 20%;
+  padding: 10px;
+  background-color: rgb(2, 70, 112);
+  color: black;
+  border: none;
+  box-shadow: 3px 4px 6px solid red;
+  font-weight: 600;
+}
+.btn1:hover {
+  margin-left: 2rem;
+  border-radius: 20%;
+  padding: 10px;
+  background-color: rgb(2, 25, 39);
+  color: rgb(255, 255, 255);
+  border: none;
+  box-shadow: 3px 4px 6px solid red;
+}
